@@ -4,7 +4,7 @@
 
 Usage: Ensure that the timetables folder has write access by which ever user will be running the php. Otherwise the scripts should be fairly self explanatory.
 
-If you just want to use the script there should be a version running on my server at: [http://me.e26.co.uk/tics][http://me.e26.co.uk/tics]
+If you just want to use the script there should be a version running on my server at: [http://me.e26.co.uk/tics](http://me.e26.co.uk/tics)
 
 This code is released under the MIT Licence which basically lets you do what you want with the code. However, if you do find yourself using this code or any part of it I would appreciate an email to let me see what awesome you have built.
 
